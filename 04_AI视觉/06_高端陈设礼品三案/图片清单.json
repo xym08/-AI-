@@ -1,0 +1,44 @@
+[
+  {
+    "file": "01_江山入屏/01_陈设主视觉_V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2651164,
+    "sha256": "ca38b934f95badd7dc57e413fc3fb7bc229f7fb6ff5e151fe5853261748f1d52"
+  },
+  {
+    "file": "01_江山入屏/02_工艺细节展示_V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2613454,
+    "sha256": "d7af3b799ed637e5759386e2babf80110664ed09efcc65222263af1d208ddb1e"
+  },
+  {
+    "file": "02_海晏观澜/01_陈设主视觉_V2.png",
+    "width": 1024,
+    "height": 1536,
+    "bytes": 2495503,
+    "sha256": "3e92c4c68bbb7466d75572677347e859384ddbf3e612c96c1a5261855f39e0fc"
+  },
+  {
+    "file": "02_海晏观澜/02_工艺细节展示_V2.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2755781,
+    "sha256": "df5da025f58eb841e937779f5349afeae8798c495233f325c1346a7be0b8557c"
+  },
+  {
+    "file": "03_和光玉璧/01_陈设主视觉_V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 1966876,
+    "sha256": "93145f2e78af961c0cd6c432ea75eb16eeea3ef29d4d46c322f031b241141463"
+  },
+  {
+    "file": "03_和光玉璧/02_工艺细节展示_V1.png",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 2132161,
+    "sha256": "e6530fefef9124026df30bbbb294a99173829b516b6db45cb9baf0924d029c1e"
+  }
+]
